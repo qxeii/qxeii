@@ -1,1 +1,1 @@
-Java Dev, also know C#, HTML, and Javascript.
+I develop programs in Rust, C, Java, C#, HTML, and Javascript.
