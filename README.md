@@ -1,1 +1,1 @@
-I develop programs in Rust, C, Java, C#, HTML, and Javascript.
+I primarily develop MC mods in Java.
